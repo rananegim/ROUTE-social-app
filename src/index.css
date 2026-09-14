@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@heroui/styles"; 
+
+.active{
+    color:rgb(26, 26, 252);
+}
